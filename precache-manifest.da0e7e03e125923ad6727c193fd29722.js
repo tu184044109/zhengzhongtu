@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d0efe728e5ef4fdf55adedaf19d74fa9",
+    "revision": "5d44b1c8b3ae3886ec0169d54c8c100b",
     "url": "/zhengzhongtu/index.html"
   },
   {
-    "revision": "63e459bd27ec4653f14d",
+    "revision": "eb9afe9e6b5041c8fbd3",
     "url": "/zhengzhongtu/static/css/2.9c8a4d8a.chunk.css"
   },
   {
-    "revision": "a62f7818d758379d6e09",
+    "revision": "6d0e52f38bff92a5c537",
     "url": "/zhengzhongtu/static/css/main.4ba6e503.chunk.css"
   },
   {
-    "revision": "63e459bd27ec4653f14d",
-    "url": "/zhengzhongtu/static/js/2.f78174f7.chunk.js"
+    "revision": "eb9afe9e6b5041c8fbd3",
+    "url": "/zhengzhongtu/static/js/2.a63e65d6.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/zhengzhongtu/static/js/2.f78174f7.chunk.js.LICENSE.txt"
+    "url": "/zhengzhongtu/static/js/2.a63e65d6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a62f7818d758379d6e09",
-    "url": "/zhengzhongtu/static/js/main.227cfd64.chunk.js"
+    "revision": "6d0e52f38bff92a5c537",
+    "url": "/zhengzhongtu/static/js/main.eab66131.chunk.js"
   },
   {
     "revision": "3f5f68142268c59efbe0",
