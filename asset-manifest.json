@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zhengzhongtu/static/css/main.5f361e03.chunk.css",
+    "main.js": "/zhengzhongtu/static/js/main.921bbb1e.chunk.js",
+    "main.js.map": "/zhengzhongtu/static/js/main.921bbb1e.chunk.js.map",
+    "runtime-main.js": "/zhengzhongtu/static/js/runtime-main.34a6e6b1.js",
+    "runtime-main.js.map": "/zhengzhongtu/static/js/runtime-main.34a6e6b1.js.map",
+    "static/js/2.ad452355.chunk.js": "/zhengzhongtu/static/js/2.ad452355.chunk.js",
+    "static/js/2.ad452355.chunk.js.map": "/zhengzhongtu/static/js/2.ad452355.chunk.js.map",
+    "index.html": "/zhengzhongtu/index.html",
+    "precache-manifest.89949b12a039f7d32c49b5311c76f5c0.js": "/zhengzhongtu/precache-manifest.89949b12a039f7d32c49b5311c76f5c0.js",
+    "service-worker.js": "/zhengzhongtu/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/zhengzhongtu/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ad452355.chunk.js.LICENSE.txt": "/zhengzhongtu/static/js/2.ad452355.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34a6e6b1.js",
+    "static/js/2.ad452355.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.921bbb1e.chunk.js"
+  ]
+}
