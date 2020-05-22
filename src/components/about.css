@@ -1,0 +1,29 @@
+h1 {
+  font-size: 20px;
+  color : #1890ff;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 10px;
+}
+
+li {
+  list-style-type: none;
+}
+
+/*.profile-image {*/
+/*  padding-left: 30px;*/
+/*  padding-top: 30px;*/
+/*}*/
+
+/*.profile-links {*/
+/*  padding-top: 400px;*/
+/*  padding-left: 50px;*/
+/*}*/
+.profile-description {
+  margin-top: 50px;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+ }
+
+.timeline {
+  margin-top: 50px;
+}
