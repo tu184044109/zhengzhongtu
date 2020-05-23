@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3552e82c8391519e931612db06c52a4e",
+    "revision": "42a1c55cb65feacbf3c85e97667c6d45",
     "url": "/zhengzhongtu/index.html"
   },
   {
-    "revision": "26295dce468dce1bc71f",
+    "revision": "db5063d6d33a4b97ff89",
     "url": "/zhengzhongtu/static/css/2.9c8a4d8a.chunk.css"
   },
   {
-    "revision": "c883b78dc6ce454729e4",
+    "revision": "014266df2e05c445f571",
     "url": "/zhengzhongtu/static/css/main.a2662fe9.chunk.css"
   },
   {
-    "revision": "26295dce468dce1bc71f",
-    "url": "/zhengzhongtu/static/js/2.ed5633a6.chunk.js"
+    "revision": "db5063d6d33a4b97ff89",
+    "url": "/zhengzhongtu/static/js/2.281669cf.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/zhengzhongtu/static/js/2.ed5633a6.chunk.js.LICENSE.txt"
+    "url": "/zhengzhongtu/static/js/2.281669cf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c883b78dc6ce454729e4",
-    "url": "/zhengzhongtu/static/js/main.95ea2345.chunk.js"
+    "revision": "014266df2e05c445f571",
+    "url": "/zhengzhongtu/static/js/main.b2bf1a09.chunk.js"
   },
   {
     "revision": "3f5f68142268c59efbe0",
@@ -46,5 +46,17 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3edbd19b3d5cc2025b87a59c48b82dcb",
     "url": "/zhengzhongtu/static/media/avatar.3edbd19b.jpeg"
+  },
+  {
+    "revision": "32f937a6630a7626525ac480d25abf86",
+    "url": "/zhengzhongtu/static/media/fudan.32f937a6.png"
+  },
+  {
+    "revision": "12634e29395d01364069c034c64df002",
+    "url": "/zhengzhongtu/static/media/google.12634e29.jpeg"
+  },
+  {
+    "revision": "845ff476efbb1df107cb29eb0d352bb5",
+    "url": "/zhengzhongtu/static/media/ut_austin.845ff476.png"
   }
 ]);

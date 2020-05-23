@@ -1,27 +1,30 @@
 {
   "files": {
     "main.css": "/zhengzhongtu/static/css/main.a2662fe9.chunk.css",
-    "main.js": "/zhengzhongtu/static/js/main.95ea2345.chunk.js",
-    "main.js.map": "/zhengzhongtu/static/js/main.95ea2345.chunk.js.map",
+    "main.js": "/zhengzhongtu/static/js/main.b2bf1a09.chunk.js",
+    "main.js.map": "/zhengzhongtu/static/js/main.b2bf1a09.chunk.js.map",
     "runtime-main.js": "/zhengzhongtu/static/js/runtime-main.34a6e6b1.js",
     "runtime-main.js.map": "/zhengzhongtu/static/js/runtime-main.34a6e6b1.js.map",
     "static/css/2.9c8a4d8a.chunk.css": "/zhengzhongtu/static/css/2.9c8a4d8a.chunk.css",
-    "static/js/2.ed5633a6.chunk.js": "/zhengzhongtu/static/js/2.ed5633a6.chunk.js",
-    "static/js/2.ed5633a6.chunk.js.map": "/zhengzhongtu/static/js/2.ed5633a6.chunk.js.map",
+    "static/js/2.281669cf.chunk.js": "/zhengzhongtu/static/js/2.281669cf.chunk.js",
+    "static/js/2.281669cf.chunk.js.map": "/zhengzhongtu/static/js/2.281669cf.chunk.js.map",
     "index.html": "/zhengzhongtu/index.html",
-    "precache-manifest.334ea5369392c212d011b0840fbf4f90.js": "/zhengzhongtu/precache-manifest.334ea5369392c212d011b0840fbf4f90.js",
+    "precache-manifest.fe19ea1028efc04109bbd9cf5b35d29c.js": "/zhengzhongtu/precache-manifest.fe19ea1028efc04109bbd9cf5b35d29c.js",
     "service-worker.js": "/zhengzhongtu/service-worker.js",
     "static/css/2.9c8a4d8a.chunk.css.map": "/zhengzhongtu/static/css/2.9c8a4d8a.chunk.css.map",
     "static/css/main.a2662fe9.chunk.css.map": "/zhengzhongtu/static/css/main.a2662fe9.chunk.css.map",
-    "static/js/2.ed5633a6.chunk.js.LICENSE.txt": "/zhengzhongtu/static/js/2.ed5633a6.chunk.js.LICENSE.txt",
+    "static/js/2.281669cf.chunk.js.LICENSE.txt": "/zhengzhongtu/static/js/2.281669cf.chunk.js.LICENSE.txt",
     "static/media/material-icons.css": "/zhengzhongtu/static/media/MaterialIcons-Regular.e79bfd88.eot",
-    "static/media/avatar.jpeg": "/zhengzhongtu/static/media/avatar.3edbd19b.jpeg"
+    "static/media/avatar.jpeg": "/zhengzhongtu/static/media/avatar.3edbd19b.jpeg",
+    "static/media/fudan.png": "/zhengzhongtu/static/media/fudan.32f937a6.png",
+    "static/media/google.jpeg": "/zhengzhongtu/static/media/google.12634e29.jpeg",
+    "static/media/ut_austin.png": "/zhengzhongtu/static/media/ut_austin.845ff476.png"
   },
   "entrypoints": [
     "static/js/runtime-main.34a6e6b1.js",
     "static/css/2.9c8a4d8a.chunk.css",
-    "static/js/2.ed5633a6.chunk.js",
+    "static/js/2.281669cf.chunk.js",
     "static/css/main.a2662fe9.chunk.css",
-    "static/js/main.95ea2345.chunk.js"
+    "static/js/main.b2bf1a09.chunk.js"
   ]
 }
