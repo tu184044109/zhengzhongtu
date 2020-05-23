@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e92b3d4a9f4dd6550a50db3aa6753f28",
+    "revision": "7364a61da1cf77f2b94c6311afbf9019",
     "url": "/zhengzhongtu/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zhengzhongtu/static/css/2.9c8a4d8a.chunk.css"
   },
   {
-    "revision": "3f8030f676309d66f69d",
+    "revision": "b5b10ac49895c1126f6b",
     "url": "/zhengzhongtu/static/css/main.a2662fe9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zhengzhongtu/static/js/2.ae280275.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3f8030f676309d66f69d",
-    "url": "/zhengzhongtu/static/js/main.c0f23d56.chunk.js"
+    "revision": "b5b10ac49895c1126f6b",
+    "url": "/zhengzhongtu/static/js/main.6eb9c7e9.chunk.js"
   },
   {
     "revision": "3f5f68142268c59efbe0",
